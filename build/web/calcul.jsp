@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>JSP Page1</title>
     </head>
     <body>
-          <h1>${m}</h1>
+          <h1> la moyenne est ${m}</h1>
     </body>
 </html>
